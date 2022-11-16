@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/Deng-Xian-Sheng/gtimeFormatLinter/pkg/analyzer"
 	"golang.org/x/tools/go/analysis/singlechecker"
-	"gtimeFormatLinter/pkg/analyzer"
 )
 
 func main() {
